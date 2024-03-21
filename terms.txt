@@ -1,0 +1,3 @@
+Type Assignment 類型賦值：
+Explicit：在編碼中，直接指定類型
+Implicit：編譯器自行推論類型
