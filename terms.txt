@@ -1,3 +1,7 @@
 Type Assignment 類型賦值：
 Explicit：在編碼中，直接指定類型
 Implicit：編譯器自行推論類型
+
+當宣告 Tuple 的參數順序
+let ourTuple: [number, boolean, string];
+之後給予值拾，也要符合同樣的順序，不然會報錯
